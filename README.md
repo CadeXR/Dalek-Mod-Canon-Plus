@@ -4,6 +4,8 @@
 
 Adds 16 new TARDIS interiors to the Dalek Mod — 6 canon designs and 10 unique variations!
 
+**Support the mod creator:** [☕ Buy me a coffee on Ko-fi](https://ko-fi.com/cadexr)
+
 ## Features
 - 16 fully-functional interiors for the TARDIS
 - 6 canon interiors faithful to Doctor Who lore
