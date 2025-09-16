@@ -26,6 +26,6 @@ Adds 16 new TARDIS interiors to the Dalek Mod — 6 canon designs and 10 unique 
 
 ## Credits
 
-**Mod Author:** CadeXR
-**Canon Plus Logo Creator:** Juujio
-**Dalek Mod Developers:** SwdTeam
+- **Mod Author:** CadeXR
+- **Canon Plus Logo Creator:** Juujio
+- **Dalek Mod Developers:** SwdTeam
